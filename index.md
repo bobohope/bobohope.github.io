@@ -28,4 +28,73 @@ Pandas, Scikit-Learn), VBA excel
 - **Data Visualization**​ : Tableau, Matplotlib, Apache Superset 
 - **Others**: Git, Docker, Jira, Microsoft Office, Latex, Linux shell script, Airflow, Kubernetes
 
+## Work Experience
+
+#### Beam Data, Toronto​ - Data Scientist Consultant
+_APR 2018 - PRESENT_
+
+##### [Accounting AI Startup Project](https://bobohope.github.io/assets/documents/Receipt Project_presentation_2.pdf)
+
+- Worked in an agile data science team to help the client improve its machine learning 
+model process. My responsibility in this project was to leverage Machine Learning to help 
+achieve 85% recall on OCR results in one of the key feature category of the app 
+- Parsed millions of Google scanning OCR output using Python in an AWS cloud 
+environment 
+- Cleaned raw data extracted from a Postgre database
+- Developed machine learning models to predict merchant name, spent amount, address in 
+receipts and achieved more than 50% improvement on model accuracy over client’s 
+benchmark model
+- Built a python Flask-based prediction API for testing and evaluation
+
+##### Education Institute Marketing Campaign Project
+- Built marketing data collection pipeline and visualization tools to help client target new 
+customer and students. My responsibility in this project was to use various big data tools 
+to build the data lake architecture and automate processes. 
+- Use various APIs such as google analytics API and Gmail API to collect information from 
+different data sources and automate all the processes using Apache Airflow. 
+- Built Apache Superset dashboard to visualize data that stored in BigQuery cloud 
+database 
+- Put applications into Docker image and used a Google Cloud Kubernetes cluster to 
+integrate and host all the apps to enable auto-scaling and load-balancing
+
+#### Weyerhaeuser, Alberta​ - IT Support and App Development (Co-op) 
+_MAY 2015 - DEC 2015_
+
+- Designed and developed a live KPI dashboard using VB.net and SQL to help the 
+company increase the awareness of key performance metrics to its hundreds of 
+employees 
+- Scheduled daily automated emails to send reports to upper management teams
+- Integrated the application to existing process control HMI in operating rooms and 
+business computers in the office 
+- Built ad-hoc reports and provided recommendations to operation and maintenance teams
+
+#### Suncor Energy, Alberta - Electrical, Instrumentation and Control Engineer (Co-op)
+_JAN 2014 - AUG 2014, MAY 2013 - AUG 2013_
+
+- Reliability and maintenance E/I/C support for Power Generation Plant, Water Treatment Plant, Fuel
+Gas Desulfurization Plant, Water and Steam Supply Unit, responsible for all electrical and
+instrumentation assets
+- Troubleshoot instrument and control outage by analyzing alarm history, sequence of event, process
+trend and walking down to the plant
+- Assist to create construction work package, maintenance scope and case study
+- Create scope of work for sustainment and work closely with contractors, vendors, planers and E/I
+technicians
+
+## Education
+
+#### University of Toronto ​ - Electrical and Computer Engineering (M.A.Sc) 
+_SEP 2016 - AUG 2018_ , **CGPA 3.8/4.0**
+
+- Full scholarship and research funding 
+- Courses: Convex Optimization, Machine Learning, Non-linear Control, Game Theory, 
+Stochastic Network, Random Process, Data Structure and Algorithm 
+- Thesis topic: A optimization problem on decentralized control of large-scale power grid 
+with attack detectability constraints 
+#### University of Alberta ​ - Electrical and Computer Engineering Coop (B.Sc) 
+_SEP 2011 - JUN 2016_  **CGPA 3.95/4.0**
+
+- Tied Branch Standing **1**
+
+
+
 
