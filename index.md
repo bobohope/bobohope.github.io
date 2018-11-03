@@ -33,7 +33,7 @@ Pandas, Scikit-Learn), VBA excel
 #### Beam Data, Toronto​ - Data Scientist Consultant
 _APR 2018 - PRESENT_
 
-##### [Accounting AI Startup Project](https://bobohope.github.io/assets/documents/Receipt Project_presentation_2.pdf)
+##### [Accounting AI Startup Project](https://bobohope.github.io/assets/documents/Receipt_Project_presentation_2.pdf)
 
 - Worked in an agile data science team to help the client improve its machine learning 
 model process. My responsibility in this project was to leverage Machine Learning to help 
