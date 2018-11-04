@@ -20,7 +20,7 @@ modeling techniques
 
 ## Summary of Skills
 
-```
+```markdown
 - **Big Data**​ : SQL on Hadoop, NoSQL (MongoDB, HBase), Apache Spark, AWS CLI, BigQuery 
 - **Programming**​ : Matlab/Simulink, VB.net, C#, R, WPF, C/C++, SQL, Python(Numpy, Scipy, 
 Pandas, Scikit-Learn), VBA excel 
