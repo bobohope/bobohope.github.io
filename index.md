@@ -20,7 +20,7 @@ modeling techniques
 
 ## Summary of Skills
 
-'''
+```
 - **Big Data**​ : SQL on Hadoop, NoSQL (MongoDB, HBase), Apache Spark, AWS CLI, BigQuery 
 - **Programming**​ : Matlab/Simulink, VB.net, C#, R, WPF, C/C++, SQL, Python(Numpy, Scipy, 
 Pandas, Scikit-Learn), VBA excel 
@@ -28,7 +28,7 @@ Pandas, Scikit-Learn), VBA excel
 - **Data Collection​** : Web Scraping (Beautiful Soup) 
 - **Data Visualization**​ : Tableau, Matplotlib, Apache Superset 
 - **Others**: Git, Docker, Jira, Microsoft Office, Latex, Linux shell script, Airflow, Kubernetes
-'''
+```
 
 ## Work Experience
 
