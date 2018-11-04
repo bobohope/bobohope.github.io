@@ -20,10 +20,8 @@ modeling techniques
 
 ## Projects
 
-```
 ![Digital Marketing](https://bobohope.github.io/assets/pictures/p1.svg)
 [Digital Marketing](https://bobohope.github.io/assets/documents/Receipt_Project_presentation_2.pdf)
-```
 
 ## Summary of Skills
 
