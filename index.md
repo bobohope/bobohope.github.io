@@ -23,10 +23,6 @@ and implement different approaches using Scikit-Learn and TensorFlow
 - Extensive training in research paper reading and keep track of state-of-the-art data mining and
 modeling techniques
 
-## Projects
-
-![Digital Marketing](https://bobohope.github.io/assets/pictures/p1.svg =20x20)
-*[Digital Marketing](https://bobohope.github.io/assets/documents/Receipt_Project_presentation_2.pdf)*
 
 ## Summary of Skills
 
