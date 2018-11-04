@@ -5,6 +5,11 @@ I recently graduated from the University of Toronto. I have a master and bachelo
 Electrical and Computer Engineering. On my spare time, I like playing computer games, cooking and reading
 books. My favorite quote is ["苟利国家生死以，岂因祸福避趋之"](https://www.youtube.com/watch?v=_ZxltK2K_h4).
 
+## Contact Info
+
+Phone: [+1(647)-676-1366](tel:+16476761366)
+Email: <taishanhzb@gmail.com>
+
 ## Highlights
 
 - A new graduate electrical and computer engineering student experienced in mathematical
@@ -17,6 +22,11 @@ K-Means, Support vector machine and neural network by taking machine learning co
 and implement different approaches using Scikit-Learn and TensorFlow
 - Extensive training in research paper reading and keep track of state-of-the-art data mining and
 modeling techniques
+
+## Projects
+
+![Digital Marketing](https://bobohope.github.io/assets/pictures/p1.svg =20x20)
+*[Digital Marketing](https://bobohope.github.io/assets/documents/Receipt_Project_presentation_2.pdf)*
 
 ## Summary of Skills
 
