@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 My name is Zhongbin Huang. I am currently a data scientist consultant working at a part-time basis.
 I recently graduated from the University of Toronto. I have a master and bachelor degree both in 
