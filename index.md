@@ -1,9 +1,9 @@
-# Welcome to My GitHub Pages
+# About Me
 
 My name is Zhongbin Huang. I am currently a data scientist consultant working at a part-time basis.
 I recently graduated from the University of Toronto. I have a master and bachelor degree both in 
 Electrical and Computer Engineering. On my spare time, I like playing computer games, cooking and reading
-books. My favorite quote is "苟利国家生死以，岂因祸福避趋之".
+books. My favorite quote is ["苟利国家生死以，岂因祸福避趋之"](https://www.youtube.com/watch?v=_ZxltK2K_h4).
 
 ## Highlights
 
@@ -20,6 +20,7 @@ modeling techniques
 
 ## Summary of Skills
 
+'''
 - **Big Data**​ : SQL on Hadoop, NoSQL (MongoDB, HBase), Apache Spark, AWS CLI, BigQuery 
 - **Programming**​ : Matlab/Simulink, VB.net, C#, R, WPF, C/C++, SQL, Python(Numpy, Scipy, 
 Pandas, Scikit-Learn), VBA excel 
@@ -27,10 +28,11 @@ Pandas, Scikit-Learn), VBA excel
 - **Data Collection​** : Web Scraping (Beautiful Soup) 
 - **Data Visualization**​ : Tableau, Matplotlib, Apache Superset 
 - **Others**: Git, Docker, Jira, Microsoft Office, Latex, Linux shell script, Airflow, Kubernetes
+'''
 
 ## Work Experience
 
-#### Beam Data, Toronto​ - Data Scientist Consultant
+### [Beam Data](http://beamdata.ca), Toronto​ - Data Scientist Consultant
 _APR 2018 - PRESENT_
 
 ##### [Accounting AI Startup Project](https://bobohope.github.io/assets/documents/Receipt_Project_presentation_2.pdf)
@@ -46,7 +48,7 @@ receipts and achieved more than 50% improvement on model accuracy over client’
 benchmark model
 - Built a python Flask-based prediction API for testing and evaluation
 
-##### Education Institute Marketing Campaign Project
+##### [Education Institute Marketing Campaign Project](https://bobohope.github.io/assets/documents/Digital_Marketing.pdf)
 - Built marketing data collection pipeline and visualization tools to help client target new 
 customer and students. My responsibility in this project was to use various big data tools 
 to build the data lake architecture and automate processes. 
@@ -57,7 +59,7 @@ database
 - Put applications into Docker image and used a Google Cloud Kubernetes cluster to 
 integrate and host all the apps to enable auto-scaling and load-balancing
 
-#### Weyerhaeuser, Alberta​ - IT Support and App Development (Co-op) 
+### [Weyerhaeuser](https://www.weyerhaeuser.com), Alberta​ - IT Support and App Development (Co-op) 
 _MAY 2015 - DEC 2015_
 
 - Designed and developed a live KPI dashboard using VB.net and SQL to help the 
@@ -68,7 +70,7 @@ employees
 business computers in the office 
 - Built ad-hoc reports and provided recommendations to operation and maintenance teams
 
-#### Suncor Energy, Alberta - Electrical, Instrumentation and Control Engineer (Co-op)
+### [Suncor Energy](https://www.suncor.com), Alberta - Electrical, Instrumentation and Control Engineer (Co-op)
 _JAN 2014 - AUG 2014, MAY 2013 - AUG 2013_
 
 - Reliability and maintenance E/I/C support for Power Generation Plant, Water Treatment Plant, Fuel
@@ -82,7 +84,7 @@ technicians
 
 ## Education
 
-#### University of Toronto ​ - Electrical and Computer Engineering (M.A.Sc) 
+### [University of Toronto](https://www.ece.utoronto.ca/) ​ - Electrical and Computer Engineering (M.A.Sc) 
 _SEP 2016 - AUG 2018_ , **CGPA 3.8/4.0**
 
 - Full scholarship and research funding 
@@ -90,7 +92,7 @@ _SEP 2016 - AUG 2018_ , **CGPA 3.8/4.0**
 Stochastic Network, Random Process, Data Structure and Algorithm 
 - Thesis topic: A optimization problem on decentralized control of large-scale power grid 
 with attack detectability constraints 
-#### University of Alberta ​ - Electrical and Computer Engineering Coop (B.Sc) 
+### [University of Alberta](https://www.ualberta.ca/) ​ - Electrical and Computer Engineering Coop (B.Sc) 
 _SEP 2011 - JUN 2016_  **CGPA 3.95/4.0**
 
 - Tied Branch Standing **1**
